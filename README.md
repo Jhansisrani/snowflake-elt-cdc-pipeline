@@ -399,6 +399,5 @@ Project Outcome
 This project demonstrates an end-to-end Snowflake data pipeline that moves data from an external S3 source into a structured production table while incorporating automated ingestion, data quality validation, incremental processing, CDC, and monitoring.
 
 
-This is the one I would use as the **main `README.md` for `snowflake-elt-cdc-pipeline`**. It describes what you actually practiced without pretending it was a production system.
-# snowflake-elt-cdc-pipeline
-Automated Snowflake ELT Pipeline with Data Quality and CDC
+This is the one I would use as the **main `README.md` for `snowflake-elt-cdc-pipeline`**. It describes what i actually practiced without pretending it was a production system.
+
